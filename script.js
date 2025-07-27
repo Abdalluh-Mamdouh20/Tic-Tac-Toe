@@ -1,5 +1,5 @@
 let currPlayer = "X";
-let Number_of_Rows = 5;
+let Number_of_Rows = 5;//you can change this number as you like
 const turns = Number_of_Rows ** 2;
 let currTurns = 0;
 
